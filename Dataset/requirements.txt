@@ -1,0 +1,13 @@
+google-play-scraper==0.1.0
+pandas==1.5.3
+numpy==1.24.2
+matplotlib==3.7.1
+seaborn==0.11.2
+scikit-learn==1.2.1
+nltk==3.7
+sastrawi==1.0.1
+wordcloud==1.8.2.2
+optuna==2.10.0
+tensorflow==2.12.0
+imblearn==0.0
+requests==2.28.1
