@@ -57,7 +57,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap komentar penggun
 
 4. **Ekstraksi Fitur dan Modeling**  
    - TF-IDF Vectorizer
-   - Model: Naive Bayes, SVM, atau Logistic Regression
+   - Model: SVM
 
 5. **Evaluasi Model**  
    - Akurasi
